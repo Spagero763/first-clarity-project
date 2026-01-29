@@ -30,3 +30,16 @@ npm test
 ## License
 
 MIT
+## Contributing
+
+1. Fork the repository
+2. Create feature branch
+3. Run \clarinet check\
+4. Run \
+pm test\
+5. Submit PR
+
+## Resources
+
+- [Clarity Documentation](https://docs.stacks.co/clarity)
+- [Clarinet Guide](https://docs.hiro.so/clarinet)
