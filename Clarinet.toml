@@ -7,3 +7,6 @@ path = 'contracts/faucet.clar'
 
 [contracts.tipjar]
 path = 'contracts/tipjar.clar'
+
+[contracts.greeting]
+path = 'contracts/greeting.clar'
